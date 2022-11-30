@@ -1,0 +1,74 @@
+/* body */
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* logo */
+
+.center {
+    text-align: center;
+}
+
+/* bar */
+
+.search-bar {
+    width: 1200px;
+    height: 80px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(238, 238, 238);
+    
+}
+
+.boxbar {
+    width: 1200px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #ffffff;
+}
+
+/* .bar {
+    width: 25%;
+    padding: 5%;
+    margin-right: 3%;
+    background-color: aquamarine;
+    float: left;
+} */
+
+#first-bar {
+    background-color: rgb(126, 229, 218);
+    margin-top: 3px;
+    margin-left: 0;
+    margin-right: 3px;
+    width: 33%;
+    padding: 15px;
+    float: left;
+}
+
+#second-bar {
+    background-color: rgb(112, 204, 194);
+    margin: 3px;
+    width: 23%;
+    font-size: small;
+    padding: 13px;
+    float: left;
+}
+
+#third-bar {
+    background-color: rgb(98, 179, 170);
+    margin-top: 3px;
+    margin-right: 0;
+    margin-left: 3px;
+    width: 37%;
+    font-size:small;
+    padding: 5px;
+    float: left;
+}
+
+footer {
+    font-size: small;
+    margin-top: 3px;
+}
